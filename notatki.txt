@@ -1,0 +1,6 @@
+1. porównania ze struts
+- ukrycie wszystkiego za web-inf, udostępnienie z tego statycznych zasobów przez static-resources,
+- brak nested,
+- spring webflow zamiast własnego mechanizmu flow (ograniczonego na 1 aktywny na sesję),
+- wygodny do restfuli,
+- 
